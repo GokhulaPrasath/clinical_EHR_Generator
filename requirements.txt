@@ -1,5 +1,6 @@
 streamlit
 pandas
+opencv-python>=4.12
 numpy>=1.24
 matplotlib
 seaborn
@@ -9,5 +10,4 @@ scikit-learn
 google-generativeai
 fpdf
 scikit-learn
-opencv-python>=4.12
 Pillow
