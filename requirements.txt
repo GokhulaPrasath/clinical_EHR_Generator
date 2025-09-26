@@ -2,6 +2,7 @@ streamlit
 pandas
 numpy>=1.24
 matplotlib
+seaborn
 reportlab>=4.0
 tensorflow==2.20.0
 scikit-learn
