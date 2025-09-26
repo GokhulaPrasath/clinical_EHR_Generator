@@ -1,12 +1,12 @@
 streamlit
 pandas
 numpy>=1.24
+reportlab>=4.0
 scikit-learn
 google-generativeai
 fpdf
 opencv-python
 tensorflow
 scikit-learn
-reportlab
 sqlite3
 Pillow
