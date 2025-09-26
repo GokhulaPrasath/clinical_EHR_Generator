@@ -6,8 +6,6 @@ tensorflow==2.20.0
 scikit-learn
 google-generativeai
 fpdf
-opencv-python
-tensorflow
 scikit-learn
-sqlite3
+opencv-python>=4.12
 Pillow
